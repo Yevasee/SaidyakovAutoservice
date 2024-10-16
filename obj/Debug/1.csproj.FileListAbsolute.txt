@@ -1,0 +1,54 @@
+D:\ИСП3322\Сайдяков Евгений\1\bin\Debug\1.exe.config
+D:\ИСП3322\Сайдяков Евгений\1\bin\Debug\1.exe
+D:\ИСП3322\Сайдяков Евгений\1\bin\Debug\1.pdb
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\AddEditPage.g.cs
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\MainWindow.g.cs
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\ServicePage.g.cs
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\App.g.cs
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\1_MarkupCompile.cache
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\1_MarkupCompile.lref
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\AddEditPage.baml
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\MainWindow.baml
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\ServicePage.baml
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\1.g.resources
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\_1.Properties.Resources.resources
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\1.csproj.GenerateResource.cache
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\1.exe
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\1.pdb
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\App.baml
+D:\ИСП3322\Сайдяков Евгений\1\bin\Debug\EntityFramework.dll
+D:\ИСП3322\Сайдяков Евгений\1\bin\Debug\EntityFramework.SqlServer.dll
+D:\ИСП3322\Сайдяков Евгений\1\bin\Debug\EntityFramework.xml
+D:\ИСП3322\Сайдяков Евгений\1\bin\Debug\EntityFramework.SqlServer.xml
+D:\ИСП3322\Сайдяков Евгений\1\bin\Debug\ru\EntityFramework.resources.dll
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\1_Content.g.cs
+D:\ИСП3322\Сайдяков Евгений\1\obj\Debug\1.csproj.CopyComplete
+D:\ИСП3322\Сайдяков Евгений\1 — копия\bin\Debug\1.exe.config
+D:\ИСП3322\Сайдяков Евгений\1 — копия\bin\Debug\1.exe
+D:\ИСП3322\Сайдяков Евгений\1 — копия\bin\Debug\1.pdb
+D:\ИСП3322\Сайдяков Евгений\1 — копия\bin\Debug\EntityFramework.dll
+D:\ИСП3322\Сайдяков Евгений\1 — копия\bin\Debug\EntityFramework.SqlServer.dll
+D:\ИСП3322\Сайдяков Евгений\1 — копия\bin\Debug\EntityFramework.xml
+D:\ИСП3322\Сайдяков Евгений\1 — копия\bin\Debug\EntityFramework.SqlServer.xml
+D:\ИСП3322\Сайдяков Евгений\1 — копия\bin\Debug\ru\EntityFramework.resources.dll
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\1.csproj.AssemblyReference.cache
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\AddEditPage.g.cs
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\MainWindow.g.cs
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\ServicePage.g.cs
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\App.g.cs
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\1_Content.g.cs
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\1_MarkupCompile.cache
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\1_MarkupCompile.lref
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\App.baml
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\AddEditPage.baml
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\MainWindow.baml
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\ServicePage.baml
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\1.g.resources
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\_1.Properties.Resources.resources
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\1.csproj.GenerateResource.cache
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\1.csproj.CopyComplete
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\1.exe
+D:\ИСП3322\Сайдяков Евгений\1 — копия\obj\Debug\1.pdb
