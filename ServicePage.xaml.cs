@@ -76,10 +76,6 @@ namespace _1
                 ServiceListView.ItemsSource = currentServices.OrderBy(p => p.Cost).ToList();
             }
         }
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            Manager.MainFrame.Navigate(new AddEditPage());
-        }
 
         private void TBoxSearch_TextChanged(object sender, TextChangedEventArgs e)
         {
@@ -99,6 +95,26 @@ namespace _1
         private void RButtonDown_Checked(object sender, RoutedEventArgs e)
         {
             UpdateServices();
+        }
+
+        private void AddButton_Click(object sender, RoutedEventArgs e)
+        {
+            Manager.MainFrame.Navigate(new AddEditPage(null));
+        }
+
+        private void EditButton_Click(object sender, RoutedEventArgs e)
+        {
+            Manager.MainFrame.Navigate(new AddEditPage((sender as Button).DataContext as Service));
+        }
+
+        private void Page_IsVisibleChanged(object sender, DependencyPropertyChangedEventArgs e)
+        {
+            if (Visibility == Visibility.Visible)
+            {
+                SaidyakovEntities.GetContext().ChangeTracker.Entries().ToList().ForEach(p => p.Reload());
+                ServiceListView.ItemsSource = SaidyakovEntities.GetContext().Service.ToList();
+            }
+
         }
     }
 }
