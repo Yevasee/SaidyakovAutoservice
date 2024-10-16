@@ -47,7 +47,7 @@ namespace _1
                 errors.AppendLine("Укажите стоимость услуги");
             }
 
-            if (_currentService.Discount != 0 || _currentService.Discount > 1)
+            if (_currentService.Discount < 0 || _currentService.Discount > 1)
             {
                 errors.AppendLine("Укажите скидку");
             }
