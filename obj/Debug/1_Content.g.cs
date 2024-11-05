@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("saidyakovdb.context.tt")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("saidyakovdb.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("saidyakovmodel.context.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("saidyakovmodel.tt")]
 
 

@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\yevasee\\saidyakovautoservice\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\yevasee\\saidyakovautoservice\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\servicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:servicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\yevasee\\saidyakovautoservice\\servicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:servicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\addeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:addeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\yevasee\\saidyakovautoservice\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\yevasee\\saidyakovautoservice\\saidyakovmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:saidyakovmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|c:\\users\\\u0435\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\yevasee\\saidyakovautoservice\\saidyakovmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:saidyakovmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47AB371-8631-4AB3-BA74-1C67878463A0}|1.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\SignUpPage.xaml",
+              "RelativeDocumentMoniker": "SignUpPage.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\SignUpPage.xaml",
+              "RelativeToolTip": "SignUpPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T18:03:54.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUpPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\SignUpPage.xaml.cs",
+              "RelativeDocumentMoniker": "SignUpPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\SignUpPage.xaml.cs",
+              "RelativeToolTip": "SignUpPage.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwDkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:24:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaidyakovModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\SaidyakovModel.edmx",
+              "RelativeDocumentMoniker": "SaidyakovModel.edmx",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\SaidyakovModel.edmx [Diagram1]",
+              "RelativeToolTip": "SaidyakovModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-05T17:55:20.515Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\Service.cs",
+              "RelativeToolTip": "Service.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvxsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:47:00.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\ServicePage.xaml.cs",
+              "RelativeDocumentMoniker": "ServicePage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\ServicePage.xaml.cs",
+              "RelativeToolTip": "ServicePage.xaml.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAmwO4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:39:06.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicePage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\ServicePage.xaml",
+              "RelativeDocumentMoniker": "ServicePage.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\ServicePage.xaml",
+              "RelativeToolTip": "ServicePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T17:39:06.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\AddEditPage.xaml",
+              "RelativeDocumentMoniker": "AddEditPage.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\AddEditPage.xaml",
+              "RelativeToolTip": "AddEditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T17:39:06.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\AddEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "AddEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\AddEditPage.xaml.cs",
+              "RelativeToolTip": "AddEditPage.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:39:06.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaidyakovModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\SaidyakovModel.Context.cs",
+              "RelativeDocumentMoniker": "SaidyakovModel.Context.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\SaidyakovModel.Context.cs",
+              "RelativeToolTip": "SaidyakovModel.Context.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:58:18.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwC0AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-05T17:39:06.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T17:39:06.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T17:39:06.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0432\u0433\u0435\u043D\u0438\u0439\\source\\repos\\Yevasee\\SaidyakovAutoservice\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-05T17:39:06.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

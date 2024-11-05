@@ -106,3 +106,32 @@ D:\ИСП3322\Сайдяков Евгений\SaidyakovAutoservice\obj\Debug\1.c
 D:\ИСП3322\Сайдяков Евгений\SaidyakovAutoservice\obj\Debug\1.csproj.CopyComplete
 D:\ИСП3322\Сайдяков Евгений\SaidyakovAutoservice\obj\Debug\1.exe
 D:\ИСП3322\Сайдяков Евгений\SaidyakovAutoservice\obj\Debug\1.pdb
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\bin\Debug\1.exe.config
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\bin\Debug\1.exe
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\bin\Debug\1.pdb
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\bin\Debug\EntityFramework.dll
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\bin\Debug\EntityFramework.xml
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\AddEditPage.g.cs
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\MainWindow.g.cs
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\ServicePage.g.cs
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\App.g.cs
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\1_Content.g.cs
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\1_MarkupCompile.cache
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\1_MarkupCompile.lref
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\App.baml
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\AddEditPage.baml
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\MainWindow.baml
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\ServicePage.baml
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\1.g.resources
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\_1.Properties.Resources.resources
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\1.csproj.Up2Date
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\1.exe
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\1.pdb
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\SignUpPage.g.cs
+C:\Users\Евгений\Source\Repos\Yevasee\SaidyakovAutoservice\obj\Debug\SignUpPage.baml

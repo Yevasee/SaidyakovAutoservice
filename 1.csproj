@@ -69,62 +69,65 @@
       <DependentUpon>AddEditPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Client.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="ClientService.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="DocumentByService.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Gender.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Manager.cs" />
     <Compile Include="Manufacturer.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Product.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="ProductPhoto.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="ProductSale.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="SaidyakovDB.Context.cs">
+    <Compile Include="SaidyakovModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>SaidyakovDB.Context.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="SaidyakovDB.cs">
+    <Compile Include="SaidyakovModel.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="SaidyakovDB.Designer.cs">
+    <Compile Include="SaidyakovModel.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>SaidyakovDB.edmx</DependentUpon>
+      <DependentUpon>SaidyakovModel.edmx</DependentUpon>
     </Compile>
     <Compile Include="Service.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="ServicePage.xaml.cs">
       <DependentUpon>ServicePage.xaml</DependentUpon>
     </Compile>
     <Compile Include="ServicePhoto.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SignUpPage.xaml.cs">
+      <DependentUpon>SignUpPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="sysdiagrams.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Tag.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Compile Include="TagOfClient.cs">
-      <DependentUpon>SaidyakovDB.tt</DependentUpon>
+      <DependentUpon>SaidyakovModel.tt</DependentUpon>
     </Compile>
     <Page Include="AddEditPage.xaml">
       <SubType>Designer</SubType>
@@ -143,6 +146,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="ServicePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SignUpPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -170,12 +177,12 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
-    <EntityDeploy Include="SaidyakovDB.edmx">
+    <EntityDeploy Include="SaidyakovModel.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>SaidyakovDB.Designer.cs</LastGenOutput>
+      <LastGenOutput>SaidyakovModel.Designer.cs</LastGenOutput>
     </EntityDeploy>
-    <None Include="SaidyakovDB.edmx.diagram">
-      <DependentUpon>SaidyakovDB.edmx</DependentUpon>
+    <None Include="SaidyakovModel.edmx.diagram">
+      <DependentUpon>SaidyakovModel.edmx</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>
@@ -207,15 +214,17 @@
     <Resource Include="Услуги автосервиса\Шиномонтаж.jpg" />
     <Resource Include="Услуги автосервиса\Электрика.png" />
     <Resource Include="img\picture.png" />
-    <Content Include="SaidyakovDB.Context.tt">
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SaidyakovModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>SaidyakovDB.edmx</DependentUpon>
-      <LastGenOutput>SaidyakovDB.Context.cs</LastGenOutput>
+      <DependentUpon>SaidyakovModel.edmx</DependentUpon>
+      <LastGenOutput>SaidyakovModel.Context.cs</LastGenOutput>
     </Content>
-    <Content Include="SaidyakovDB.tt">
+    <Content Include="SaidyakovModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>SaidyakovDB.edmx</DependentUpon>
-      <LastGenOutput>SaidyakovDB.cs</LastGenOutput>
+      <DependentUpon>SaidyakovModel.edmx</DependentUpon>
+      <LastGenOutput>SaidyakovModel.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

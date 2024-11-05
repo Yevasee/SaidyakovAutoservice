@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Controls.Primitives;
 using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
@@ -16,46 +17,35 @@ using System.Windows.Shapes;
 namespace _1
 {
     /// <summary>
-    /// Логика взаимодействия для AddEditPage.xaml
+    /// Логика взаимодействия для SignUpPage.xaml
     /// </summary>
-    public partial class AddEditPage : Page
+    public partial class SignUpPage : Page
     {
         private Service _currentService = new Service();
-        public AddEditPage(Service SelectedService)
+        public SignUpPage(Service SelectedService)
         {
             InitializeComponent();
-
             if (SelectedService != null)
-            {
-                _currentService = SelectedService;
-            }
+                this._currentService = SelectedService;
 
             DataContext = _currentService;
+
+            var _currentClient = SaidyakovEntities.GetContext().Client.ToList();
+            ComboClient.Items.Clear();
+            ComboClient.ItemsSource = _currentClient;
         }
 
+        private ClientService _currentClientService = new ClientService();
         private void SaveButton_Click(object sender, RoutedEventArgs e)
         {
             StringBuilder errors = new StringBuilder();
 
-            if(string.IsNullOrWhiteSpace(_currentService.Title))
-            {
-                errors.AppendLine("Укажите название услуги");
-            }
-
-            if (_currentService.Cost == 0)
-            {
-                errors.AppendLine("Укажите стоимость услуги");
-            }
-
-            if (_currentService.DiscountInt < 0 || _currentService.DiscountInt > 100)
-            {
-                errors.AppendLine("Укажите скидку");
-            }
-
-            if (_currentService.Duration<=0)
-            {
-                errors.AppendLine("Укажите длительность услуги");
-            }
+            if (ComboClient.SelectedItem == null)
+                errors.AppendLine("Укажите ФИО клиента");
+            if (StartDate.Text == "")
+                errors.AppendLine("Укажите дату услуги");
+            if (TBStart.Text == "")
+                errors.AppendLine("Укажите время начала услуги");
 
             if (errors.Length > 0)
             {
@@ -63,9 +53,13 @@ namespace _1
                 return;
             }
 
-            if(_currentService.ID == 0)
+            _currentClientService.ClientID = ComboClient.SelectedIndex + 1;
+            _currentClientService.ServiceID = _currentService.ID;
+            _currentClientService.StartTime = Convert.ToDateTime(StartDate.Text + " " + TBStart.Text);
+
+            if (_currentClientService.ID == 0)
             {
-                SaidyakovEntities.GetContext().Service.Add(_currentService);
+                SaidyakovEntities.GetContext().ClientService.Add(_currentClientService);
             }
 
             try
