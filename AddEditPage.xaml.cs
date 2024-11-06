@@ -52,15 +52,37 @@ namespace _1
                 errors.AppendLine("Укажите скидку");
             }
 
-            if (_currentService.Duration<=0)
+            if (_currentService.Duration < 0 || _currentService.Duration > 240)
             {
-                errors.AppendLine("Укажите длительность услуги");
+                errors.AppendLine("Длительность не может быть более 240 минут или меньше 0");
             }
 
             if (errors.Length > 0)
             {
                 MessageBox.Show(errors.ToString());
                 return;
+            }
+
+            var allServices = SaidyakovEntities.GetContext().Service.ToList();
+            allServices = allServices.Where(p=>p.Title == _currentService.Title).ToList();
+
+            if(allServices.Count == 0) {
+                if (_currentService.ID == 0)
+                    SaidyakovEntities.GetContext().Service.Add(_currentService);
+                try
+                {
+                    SaidyakovEntities.GetContext().SaveChanges();
+                    MessageBox.Show("Информация сохранена");
+                    Manager.MainFrame.GoBack();
+                }
+                catch(Exception ex)
+                {
+                    MessageBox.Show(ex.Message.ToString());
+                }
+            }
+            else
+            {
+                MessageBox.Show("Уже существует такая услуга");
             }
 
             if(_currentService.ID == 0)

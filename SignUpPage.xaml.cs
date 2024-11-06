@@ -73,5 +73,28 @@ namespace _1
                 MessageBox.Show(ex.Message.ToString());
             }
         }
+
+        private void TBStart_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            string s = TBStart.Text;
+
+            if (s.Length < 6 || !s.Contains(':')) 
+            {
+                TBEnd.Text = "";
+            }
+            else
+            {
+                string[] start = s.Split(new char[] { ':' });
+                int startHour = Convert.ToInt32(start[0].ToString())*60;
+                int startMin = Convert.ToInt32(start[1].ToString());
+
+                int sum = startHour + startHour + _currentService.Duration;
+
+                int EndHour = sum / 60;
+                int EndMin = sum % 60;
+                s = EndHour.ToString() + ":" + EndMin.ToString();
+                TBEnd.Text = s;
+            }
+        }
     }
 }
